@@ -3,3 +3,4 @@
 * beurre
 * oeufs
 * farine
+* chocolat
