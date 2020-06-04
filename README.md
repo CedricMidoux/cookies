@@ -3,4 +3,4 @@
 * beurre
 * oeufs
 * farine
-* chocolat
+* beaucoup de chocolat
